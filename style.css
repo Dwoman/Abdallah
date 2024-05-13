@@ -358,6 +358,7 @@ color: #000;
     }
     nav {
         display: flex;
+        justify-content: center;
         align-items: center;
     }
     #feature{
